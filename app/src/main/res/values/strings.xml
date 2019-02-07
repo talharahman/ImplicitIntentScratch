@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImplicitIntentsFromScratch</string>
+    <string name="button_display">See Horoscope</string>
+</resources>
